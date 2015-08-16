@@ -7,4 +7,9 @@ public class ExercicioTeste01 {
         System.out.println("teste Git7.2.1");
     }
     
+    
+    public String s(){
+    
+    return "";
+    }
 }
